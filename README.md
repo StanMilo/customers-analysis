@@ -1,8 +1,8 @@
 # React + Vite
 
-npm install
-node generateData.js
-npm run dev
+- npm install
+- node generateData.js
+- npm run dev
 
 ## Important Notes
 
